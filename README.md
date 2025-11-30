@@ -7,3 +7,6 @@
     ```
 2.  เปิดไฟล์ `index.html` ผ่าน Web Browser (เช่น Chrome, Edge, Safari)
 3.  เริ่มใช้งานได้ทันที!
+
+หรือ ถ้าไม่ต้องการติดตั้งสามารถกดที่ลั้ง
+https://bmi-nu-ivory.vercel.app/
